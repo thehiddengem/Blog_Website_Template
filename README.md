@@ -1,4 +1,4 @@
-#Blog Website Template
+Blog Website Template
 ---
 
 **Blog Website Template**
