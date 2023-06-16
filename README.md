@@ -1,8 +1,6 @@
 Blog Website Template
 ---
 
-**Blog Website Template**
-
 [![GitHub](https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue)](https://github.com/thehiddengem/Blog_Website_Template)
 
 Blog Website Template is a customizable and responsive website template designed for creating beautiful and functional blog websites. It provides a sleek and modern design along with essential features for a seamless blogging experience. This template is built using HTML, CSS, and JavaScript, making it easy to modify and adapt to your specific needs.
